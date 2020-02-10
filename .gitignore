@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+#Personnel
+*.idea
+*.DS_Store
+cmake-build-debug/
+temp-*
+*.log
