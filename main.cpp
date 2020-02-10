@@ -6,5 +6,10 @@
 
 int main () {
     std::cout << "Hello, World!" << std::endl;
+
+    int a= 2;
+    std::cout << a << std::endl;
     return 0;
+
+
 }
